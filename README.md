@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Ayoub, a Moroccan  BI CONSULTANT👋🏼:
-<br>👨🏼‍🎓 Master Big Data & Cloud Computing<br>👨🏼‍💻 Working as AI Data Annotation Specialist <br>
+<br>👨🏼‍🎓 Master Big Data & Cloud Computing<br>👨🏼‍💻 Working as BI CONSULTANT <br>
 
 
 # 💻 Tech Stack:
