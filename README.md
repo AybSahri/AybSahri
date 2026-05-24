@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm Ayoub, a Moroccan  BI CONSULTANT👋🏼:
+# Hello World!, I'm Ayoub, a Moroccan  Data Engineer, Analytics Engineer👋🏼:
 <br>👨🏼‍🎓 Master Big Data & Cloud Computing<br>👨🏼‍💻 Working as BI CONSULTANT <br>
 
 
